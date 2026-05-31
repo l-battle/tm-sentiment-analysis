@@ -1,2 +1,2 @@
 # tm-sentiment-analysis
-text mining sentiment analysis component
+sentence level sentiment analysis using bert
